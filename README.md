@@ -13,6 +13,6 @@ So with that being said, sharing and contributions are encouraged.
 
 #### Disclaimer
 These notes were taking while the presentations were going on, then slightly edited afterward based off memory. So Obviosuly they won't be as good as experiencing the real thing.  
-Also I'm really bad at spelling, so you are garanteed to find some silly typo's.  
+Also I'm really bad at spelling, so you are garanteed to find some silly typo's.
 
 Happy reading!
