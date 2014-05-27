@@ -16,9 +16,9 @@ This means we need to get CSS down from the network ASAP (even before the JS fil
 
 (We define "critical path" as the main thing that the user is here for (in the case of this talk, the new article))  
 
-Techniques implemented by The Guardian to speed up their critical path:
-1- To ensure that our criticla path CSS gets to the user FAST... we put some in-line CSS (at the top of the page) so that the browser gets all the paint and layout info in a single request. The percived benefits are huge.  
-2- Another useful technique is to store the non-critical path CSS in localStorage so the broswer doesn't have to fetch it the 2nd time around.  
+Techniques implemented by The Guardian to speed up their critical path:  
+1. To ensure that our criticla path CSS gets to the user FAST... we put some in-line CSS (at the top of the page) so that the browser gets all the paint and layout info in a single request. The percived benefits are huge.  
+2. Another useful technique is to store the non-critical path CSS in localStorage so the broswer doesn't have to fetch it the 2nd time around.  
 
 This system also creates more resilient systems. We only need 1 request to get ALL the information necesary for painting and layout.
 
