@@ -1,4 +1,4 @@
-CSSconf and Jconf 2014
+CSSconf and JSconf 2014
 =======================
 
 Once upon a time, I went to a conference.  
